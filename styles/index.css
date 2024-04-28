@@ -3,8 +3,14 @@
     margin: 0;
 }
 
-body {
+/*body {
     background-color: #ebf2ff !important;
+}*/
+
+body {
+    background-image: url('https://images.app.goo.gl/27nq8uS8TpuxJUfs9');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .add__new__btn__mobile__only {
