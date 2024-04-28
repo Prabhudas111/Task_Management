@@ -9,9 +9,8 @@
 
 body {
     background-image: url('https://img.freepik.com/premium-vector/cute-cat-kitten-greeting-cartoon-doodle-wallpaper-cover_493693-123.jpg');
-    background-size: contain; /* Ensures the entire background image is visible */
+    background-size: cover; 
     background-repeat: no-repeat;
-    background-position: center; /* Centers the background image */
 }
 
 .add__new__btn__mobile__only {
